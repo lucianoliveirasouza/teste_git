@@ -42,6 +42,5 @@ git merge <branch que vai trazer as iformações alteradas>
 git checkout <branch que estou trabalhando>
 git rebase master
 
-
 Alteracao da branhA
 Alteracao da branhB
