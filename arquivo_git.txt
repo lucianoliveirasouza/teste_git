@@ -28,7 +28,12 @@ git push --tags
 
 ##branchs
 
-Delete branchs
+#Delete branchs
 
 git branch -D <nome da branch>
+
+#merge
+
+git checkout <branch que vai receber o merge>
+git merge <branch que vai trazer as iformações alteradas>
 
