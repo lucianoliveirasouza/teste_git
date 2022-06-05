@@ -18,3 +18,10 @@ git rm arquivo_git.txt -f
 ## revert um arquivo
 
 git checkout -- <nome do arquivo>
+
+## git log
+
+## criando tag
+git tag 1.1
+git push --tags
+
