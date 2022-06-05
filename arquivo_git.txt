@@ -23,7 +23,7 @@ git checkout -- <nome do arquivo>
 
 ## criando tag
 git tag 1.1
-git push --tags
+git push --tagsg
 
 
 ##branchs
@@ -32,7 +32,7 @@ git push --tags
 
 git branch -D <nome da branch>
 
-#merge
+#mergeg
 
 git checkout <branch que vai receber o merge>
 git merge <branch que vai trazer as iformações alteradas>
