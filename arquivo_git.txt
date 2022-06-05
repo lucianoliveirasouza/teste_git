@@ -1,0 +1,5 @@
+git
+
+## Remov arquivo do stage/ Reverter o add
+
+git rm --cached arquivo_git.txt
