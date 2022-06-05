@@ -36,5 +36,3 @@ git branch -D <nome da branch>
 
 git checkout <branch que vai receber o merge>
 git merge <branch que vai trazer as iformações alteradas>
-
-Teste conflito branchA
