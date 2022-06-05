@@ -2,8 +2,12 @@ git init
 git status
 git add
 git commit 
+
+##Remote
+git remote add origin https://github.com/lucianoliveirasouza/teste_git.git
 git push
 
 ## Remov arquivo do stage/ Reverter o add
 
 git rm --cached arquivo_git.txt
+
