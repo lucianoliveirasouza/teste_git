@@ -10,3 +10,11 @@ git push
 ## Remov arquivo do stage/ Reverter o add
 
 git rm --cached arquivo_git.txt
+
+## Deleta os arquivos
+
+git rm arquivo_git.txt -f
+
+## revert um arquivo
+
+git checkout -- <nome do arquivo>
