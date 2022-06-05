@@ -27,3 +27,8 @@ git push --tags
 
 
 ##branchs
+
+Delete branchs
+
+git branch -D <nome da branch>
+
