@@ -50,3 +50,5 @@ git cherry-pick <branch> <hash>
 #git reset
 
 git reset <hash>
+git checkout -- . atualiza tudo
+git clean -f apaga os arquivos
